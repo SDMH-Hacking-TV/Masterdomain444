@@ -19,8 +19,6 @@ Usage of MasterDomain for attacking targets without prior mutual consent is ille
 
 ```
 git clone https://github.com/SDMH-Hacking-TV/Masterdomain444
-cd Masterdomain444
-bash Masterdomain.sh
 ```
 ## Detailed Article:
 https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
