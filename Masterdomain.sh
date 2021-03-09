@@ -72,7 +72,7 @@ echo -e "\e[1;31;42m########################│░░░██║░░░░░
 echo -e "\e[1;31;42m########################│░░░╚═╝░░░░░░╚═╝░░░│####################### \e[0m"
 echo -e "\e[1;31;42m########################└──────────────────┘####################### \e[0m \n"
 echo -e "\e[40;38;5;82m               Please Visit \e[30;48;5;82m https://www.kalilinux.in \e[0m"
-echo -e "\e[40;38;5;82m                      Copyright \e[40;38;5;82m /  SDMH-Hacking-TV \e[0m \n\n"
+echo -e "\e[40;38;5;82m                    Copyright \e[40;38;5;82m /  SDMH-Hacking-TV \e[0m \n\n"
 echo -e "\e[1;31;42m ### Phishing URL ###\e[0m \n"
 echo -n "Paste Phishing URL here (with http or https): "
 read phish
